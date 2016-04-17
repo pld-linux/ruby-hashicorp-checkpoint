@@ -6,7 +6,7 @@
 Summary:	Internal HashiCorp service to check version information
 Name:		ruby-%{pkgname}
 Version:	0.1.4
-Release:	1
+Release:	2
 License:	MPL v2.0
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
