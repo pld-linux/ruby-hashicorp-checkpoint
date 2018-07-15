@@ -5,12 +5,12 @@
 %define	pkgname	hashicorp-checkpoint
 Summary:	Internal HashiCorp service to check version information
 Name:		ruby-%{pkgname}
-Version:	0.1.4
-Release:	2
+Version:	0.1.5
+Release:	1
 License:	MPL v2.0
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
-# Source0-md5:	e1400274453f554e97204e75fdb31b6d
+# Source0-md5:	b0a723177d1485a5d4538270ff77ca09
 URL:		http://www.hashicorp.com
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
